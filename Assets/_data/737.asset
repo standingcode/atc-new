@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f519fdf9e3f69d345ab83b0a26a38419, type: 3}
+  m_Name: 737
+  m_EditorClassIdentifier: 
+  aircraftType: 737
+  maxSpeedInKnots: 600
+  maxAccelerationInNauticalMilesPerHourPerSecond: 10
+  defaultAccelerationInNauticalMilesPerHourPerSecond: 10
+  maxDecelerationInNauticalMilesPerHourPerSecond: 10
+  defaultDecelerationInNauticalMilesPerHourPerSecond: 10
+  maxHeightInFeet: 60000
+  maxClimbRateInFeetPerMinute: 5000
+  defaultClimbRateInFeetPerMinute: 2000
+  maxDescendRateInFeetPerMinute: 5000
+  defaultDescendRateInFeetPerMinute: 2000
+  maxTurnRateInDegreesPerSecond: 5
+  defaultTurnRateInDegreesPerSecond: 3

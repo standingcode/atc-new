@@ -1,0 +1,27 @@
+70 - 170 = -100 -> minus and less than 180, turn right
+70 - 270 = -200 -> minus and more than 180, turn left
+
+270 - 70 = 200 -> plus and more than 180, turn right
+170 - 70 = 100 -> plus and less than 180, turn left
+
+
+
+		//InputSystem.onAnyButtonPress
+		//	.Call(ctrl => OnTest(ctrl.name));
+
+		//InputSystem.onAnyButtonPress
+		
+		
+		//private void OnTextInput(char character)
+//{
+
+
+//}
+
+//private void OnTest(string name)
+//{
+//	Debug.Log(name);
+
+//	calculatorManager.NumberButtonPressed(name[0]);
+//}
+
